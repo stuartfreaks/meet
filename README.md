@@ -1,5 +1,7 @@
 This app helps users find meet ups in their city or area.
 
+This application will utilise AWS | Google Calendar API | Google OAuth and AWS Lambda Access Keys
+
 It was created using:
 
 - React.js
