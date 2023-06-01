@@ -31,6 +31,10 @@ module.exports.getAuthURL = async () => {
     scope: SCOPES,
   });
 
+  module.exports.getAccessToken = async (event) => {
+    //code will go in here
+  };
+
   return {
     statusCode: 200,
     headers: {
